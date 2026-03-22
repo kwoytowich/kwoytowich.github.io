@@ -1,5 +1,3 @@
-# Kevin Woytowich's Personal Website
-
 ## Disclaimer
 This is meant to be a testbed to get more comfortable with Github: I just want a repository I can mess around with. 
 
